@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Sam</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🔭 I’m currently working on **Mobile Apps and a Videogame (Secret)**
+- 🔭 I’m currently working on **Mobile Apps, Web Apps and AI**
 
-- 📫 How to reach me **samflogar@protonmail.com**
+- 📫 How to reach me: **samflogar@protonmail.com**
 
 <p align="left">
 </p>
